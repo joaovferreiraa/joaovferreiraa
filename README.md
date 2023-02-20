@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, me chamo João Vitor</h1>
+<h1 align="center">Oi 👋, eu sou o João Vitor</h1>
 <h3 align="center">Interessado por ciência de dados e IA no mundo digital.</h3>
 
 - 🌱 Atualmente estou aprendendo **Python aplicado a modelos de Machine Learning.**
