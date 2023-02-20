@@ -1,13 +1,13 @@
 <h1 align="center">Oi 👋, me chamo João Vitor</h1>
 <h3 align="center">Interessado por ciência de dados e IA no mundo digital.</h3>
 
-- 🌱 Atualmente estou aprendendo **Python aplicado para modelos de Machine Learning.**
+- 🌱 Atualmente estou aprendendo **Python aplicado a modelos de Machine Learning.**
 
-- 📫 Você me acha através do e-mail **jvfassis@gmail.com**
+- 📫 Você pode me achar através do e-mail **jvfassis@gmail.com**
 
 - 📄 Saiba sobre minhas experiências em: [https://www.linkedin.com/in/joaoferreiradeassis/](https://www.linkedin.com/in/joaoferreiradeassis/)
 
-- ⚡ Fun fact **Tenho uma tatuagem do Squirtle e do Zeca Pagodinho.**
+- ⚡ Fun fact: **Tenho uma tatuagem do Squirtle e do Zeca Pagodinho.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
