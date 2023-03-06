@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o João Vitor</h1>
-<h3 align="center">Interessado por ciência de dados e IA no mundo digital.</h3>
+<h3 align="center">Interessado por ciência de dados e IA no mundo digital. Atualmente cursando MBA de Machine Learning na XP Educação.</h3>
 
 - 🌱 Atualmente estou aprendendo **Python aplicado a modelos de Machine Learning.**
 
